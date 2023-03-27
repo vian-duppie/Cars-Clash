@@ -1,0 +1,10 @@
+<svg id="Engine" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_44" data-name="Group 44">
+    <path id="Path_66" data-name="Path 66" d="M1,9v8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_67" data-name="Path 67" d="M12,3V7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_68" data-name="Path 68" d="M9,3h6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_69" data-name="Path 69" d="M20,9v2H18L16,7H8L6,9H4v8H7l1.724,3.447A1,1,0,0,0,9.618,21H16a1,1,0,0,0,1-1V17h3v2h2a1,1,0,0,0,1-1V10a1,1,0,0,0-1-1Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_70" data-name="Path 70" d="M4,13H1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Path_71" data-name="Path 71" d="M0,0H24V24H0Z" fill="none"/>
+</svg>

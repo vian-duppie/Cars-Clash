@@ -1,0 +1,52 @@
+@import '../../assets/base.css';
+
+.background {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(var(--modal-rgba), 0.8);
+}
+
+.specListContainer {
+    width: 800px;
+    height: fit-content;
+    padding: 34px 40px 40px 40px;
+    border-radius: 20px;
+    opacity: 1;
+    background-color: var(--white);
+}
+
+.specListContainer__topContainer {
+    width: 100%;
+    margin-bottom: 29px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.specListContainer__topContainer__title {
+    font-weight: var(--font-weight-semi-bold);
+    color: var(--text-dark);
+}
+
+.specListContainer__bottomContainer__specList__left {
+    float: left;
+    margin-right: 182px;
+}
+
+.specListContainer__bottomContainer__specList__right  {
+    float: left;
+}
+
+.specListContainer__bottomContainer__specList__spec {
+    margin-bottom: 16px;
+    background-color: var(--primary);
+}
+
+.specListContainer__bottomContainer__specList__spec svg *[stroke] {
+    stroke: var(--white);
+}

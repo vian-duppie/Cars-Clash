@@ -1,0 +1,67 @@
+@import '../assets/base.css';
+
+.outerContainer {
+    display: flex;
+    width: calc(100vw - 110px);
+    height: calc(100vh - 20px);
+    margin: 10px 10px 10px 0;
+    border-radius: 16px;
+    float: left;
+    overflow: auto;
+    background: #FFFFFF;
+}
+
+.leftContainer {
+    width: 30%;
+    padding: 24px 40px 40px 40px;
+}
+
+.leftContainer__titlesContainer {
+    height: fit-content;
+}
+
+.leftContainer__titlesContainer__title {
+    color: var(--text-dark);
+    font-weight: var(--font-weight-medium);
+}
+
+.leftContainer__titlesContainer__subTitle {
+    margin-top: 4px;
+    margin-bottom: 24px;
+    color: var(--text-light);
+    font-weight: var(--font-weight-mormal);
+}
+
+.leftContainer__titlesContainer__line {
+    width: 100%;
+    height: 1px;
+    background-color: #D9E0E3;
+}
+
+.leftContainer__vehicleSelect__title {
+    margin-top: 23px;
+    margin-bottom: 13px;
+    color: var(--text-dark);
+    font-weight: var(--font-weight-medium);
+}
+
+.leftContainer__vehicleSelect__selects__select {
+    margin-bottom: 14px;
+}
+
+.rightContainer__chart {
+    width: 70%;
+    padding: 44px 40px 60px 40px;
+    background-color: var(--grey);
+}
+
+.rightContainer__chart__title {
+    margin-bottom: 45px;
+    color: var(--text-dark);
+    font-weight: var(--font-weight-medium);
+}
+
+.rightContainer__chart__chartContainer {
+    width: 100%;
+    height: calc(100% - 72px);
+}

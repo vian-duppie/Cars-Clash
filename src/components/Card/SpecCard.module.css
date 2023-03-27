@@ -1,0 +1,25 @@
+@import '../../assets/base.css';
+
+.card {
+    width: 100%;
+    height: fit-content;
+    background-color: rgba(var(--primary-rgba), 0.06);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    display: flex;
+    border-radius: 50%;
+    background-color: var(--primary);
+    margin: 20px 16px 20px 16px;
+}
+
+.icon img {
+    padding: 12px;
+}
+
+.stats {
+    width: fit-content;
+}

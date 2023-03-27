@@ -1,0 +1,24 @@
+@import '../../assets/base.css';
+
+.specCardContainer {
+    width: 234px;
+    height: 370px;
+    padding: 12px 12px 24px 20px;
+    border-radius: 16px;
+    background-color: var(--white);
+}
+
+.specCardContainer__topContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 31px;
+}
+
+.specCardContainer__chartContainer {
+    height: calc(100% - 80px);
+}
+
+.specChartContainer__chartContainer__chart {
+    height: calc(100% - 25px);
+}

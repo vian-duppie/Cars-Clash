@@ -1,0 +1,11 @@
+<svg id="Car.4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_46" data-name="Group 46">
+    <path id="Path_85" data-name="Path 85" d="M22,9l-2.62,1" fill="none" stroke="#002959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_86" data-name="Path 86" d="M4.63,10,2,9" fill="none" stroke="#002959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_87" data-name="Path 87" d="M18.25,14h-2.5" fill="none" stroke="#002959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_88" data-name="Path 88" d="M8.25,14H5.75" fill="none" stroke="#002959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_89" data-name="Path 89" d="M19.379,10,18.54,5.988A2.5,2.5,0,0,0,16.092,4H8.012A2.5,2.5,0,0,0,5.578,5.931L4.627,10" fill="none" stroke="#002959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_90" data-name="Path 90" d="M3.25,20H5.5A1.5,1.5,0,0,0,7,18.5v-1H17v1A1.5,1.5,0,0,0,18.5,20h2.25A1.25,1.25,0,0,0,22,18.75V13a3,3,0,0,0-3-3H5a3,3,0,0,0-3,3v5.75A1.25,1.25,0,0,0,3.25,20Z" fill="none" stroke="#002959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Path_91" data-name="Path 91" d="M0,0H24V24H0Z" fill="none"/>
+</svg>

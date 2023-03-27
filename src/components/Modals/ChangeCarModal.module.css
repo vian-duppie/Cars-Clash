@@ -1,0 +1,34 @@
+@import '../../assets/base.css';
+
+.background {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(var(--modal-rgba), 0.8);
+}
+
+.carChangeContainer {
+    width: 800px;
+    height: fit-content;
+    padding: 34px 40px 40px 40px;
+    border-radius: 20px;
+    opacity: 1;
+    background-color: var(--white);
+}
+
+.carChangeContainer__topContainer {
+    width: 100%;
+    margin-bottom: 29px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.carChangeContainer__topContainer__title {
+    font-weight: var(--font-weight-semi-bold);
+    color: var(--text-dark);
+}

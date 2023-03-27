@@ -1,0 +1,15 @@
+@import '../../assets/base.css';
+
+.iconContainer {
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    padding: 7px;
+    align-items: center;
+    border-radius: 50%;
+    background-color: rgba(var(--primary-rgba), 0.06);
+}
+
+.iconContainer:hover {
+    cursor: pointer;
+}

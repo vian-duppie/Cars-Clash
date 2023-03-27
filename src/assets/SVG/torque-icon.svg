@@ -1,0 +1,10 @@
+<svg id="Object_Rotate_Vertical" data-name="Object, Rotate, Vertical" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_52" data-name="Group 52" transform="translate(4 3.999)">
+    <path id="Path_100" data-name="Path 100" d="M7.46,24.323a12.5,12.5,0,0,1-.945-.848A11.992,11.992,0,0,1,17.667,3.3" transform="translate(-3 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_101" data-name="Path 101" d="M4,19.825H7.333V16.492" transform="translate(-2.666 1.498)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_102" data-name="Path 102" d="M18.218,14.418l-3.8,3.8a1.533,1.533,0,0,1-2.168,0l-3.8-3.8a1.533,1.533,0,0,1,0-2.168l3.8-3.8a1.533,1.533,0,0,1,2.168,0l3.8,3.8A1.533,1.533,0,0,1,18.218,14.418Z" transform="translate(-1.334 -1.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_103" data-name="Path 103" d="M20.206,5.008a12.5,12.5,0,0,1,.945.848A11.992,11.992,0,0,1,10,26.031" transform="translate(-0.667 -2.33)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_104" data-name="Path 104" d="M20.833,5.008H17.5V8.341" transform="translate(1.834 -2.33)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Path_105" data-name="Path 105" d="M32,32H0V0H32Z" fill="none"/>
+</svg>

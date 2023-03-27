@@ -1,0 +1,42 @@
+@import '../../assets/base.css';
+
+.navContainer {
+    width: fit-content;
+    height: 100vh;
+    float: left;
+}
+
+.navContainer__Logo {
+    padding: 40px 26px 30px 26px;
+}
+
+.navContainer__Line {
+    width: 60px;
+    height: 1px;
+    opacity: 40%;
+    background-color: var(--secondary);
+    margin: 0 20px 30px 20px;
+}
+
+.navContainer__listContainer li {
+    display: flex;
+    justify-content: center;
+}
+
+.active span  {
+    background-color: rgba(var(--white-rgba), .2);
+}
+
+.unSelected span:hover {
+    background-color: var(--secondary);
+    
+}
+
+.navContainer__listContainer__list__iconContainer {
+    margin: 0 30px 20px 30px;
+    border-radius: 8px;
+}
+
+.navContainer__listContainer__list__iconContainer svg *[stroke] {
+    stroke: rgba(var(--white-rgba), 1);
+}

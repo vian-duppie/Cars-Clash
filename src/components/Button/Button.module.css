@@ -1,0 +1,17 @@
+@import '../../assets/base.css';
+
+button {
+    border-radius: 8px;
+    padding: 8px 16px;
+    border: none;
+    font-size: var(--p-two);
+    font-weight: var(--font-weight-medium);
+    color: var(--primary);
+    background-color: #E5EDF8;
+}
+
+button:hover {
+    color: var(--white);
+    background-color: var(--secondary);
+    cursor: pointer;
+}

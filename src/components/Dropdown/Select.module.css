@@ -1,0 +1,33 @@
+@import '../../assets/base.css';
+
+.selectContainer__subTitle {
+    margin-bottom: 4px;
+    color: var(--text-light);
+    font-weight: var(--font-weight-normal);
+}
+
+.selectContainer__select {
+    width: 100%;
+    padding: 12px 16px;
+    border-radius: 8px;
+    border: rgba(var(--text-dark-rgba), 0.2) solid 1px;
+}
+
+.selectContainer__select:focus {
+    color: var(--white);
+    background-color: var(--primary);
+}
+
+.selectContainer select option {
+    padding: 2px;
+    background-color: var(--white)
+}
+
+.selectContainer select option:checked  {
+    color: var(--white);
+    background-color: rgba(var(--primary-rgba), 0.2);
+}
+
+.selectContainer select option:not(:checked)  {
+    color: var(--text-dark);
+}

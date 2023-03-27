@@ -1,0 +1,107 @@
+:root {
+    --text-dark: #021A36;
+    --text-dark-rgba: 2, 26, 54;
+
+    --primary: #002959;
+    --primary-rgba: 0, 41, 89;
+
+    --secondary: #357ACB;
+    --secondary-rgba: 53, 122, 203;
+
+    --tertiary: #A2B9D3;
+    --tertiary-rgba: 162, 185, 211;
+
+    --text-light: #71787C;
+    --text-light-rgba: 113, 120, 124;
+
+    --grey-dark: #E5EAEB;
+    --grey-dark-rgba: 229, 234, 235;
+
+    --grey: #F1F3F4;
+    --grey-rgba: 241, 243, 244;
+
+    --grey-light: #F8F8FA;
+    --grey-light-rgba: 248, 248, 250;
+
+    --white: #FFFFFF;
+    --white-rgba: 255, 255, 255;
+
+    --modal: #191934;
+    --modal-rgba: 25, 25, 52;
+
+
+    --font-weight-thin: 100; /* Thin (Hairline) */
+    --font-weight-extra-light: 200; /* Extra Light (Ultra Light) */
+    --font-weight-light: 300; /* Light */
+    --font-weight-normal: 400; /* Normal (Regular) */
+    --font-weight-medium: 500; /* Medium */
+    --font-weight-semi-bold: 600; /* Semi Bold (Demi Bold) */
+    --font-weight-bold: 700; /* Bold */
+    --font-weight-extra-bold: 800; /* Extra Bold (Ultra Bold) */
+    --font-weight-black: 900; /* Black (Heavy) */
+    --font-weight-extra-black: 950; /* Extra Black (Ultra Black) */
+    
+    --heading-one: 72px;
+    --heading-two: 64px;
+    --heading-three: 56px;
+    --heading-four: 34px;
+    --heading-five: 28px;
+    --heading-six: 20px;
+    --p-one: 16px;
+    --p-two: 14px;
+    --label: 12px;
+}
+
+ul, li, a { 
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+* {
+    font-family: 'IBM Plex Sans', cursive;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: var(--heading-one);
+}
+
+h2 {
+    font-size: var(--heading-two);
+}
+
+h3 {
+    font-size: var(--heading-three);
+}
+
+h4 {
+    font-size: var(--heading-four);
+}
+
+h5 {
+    font-size: var(--heading-five);
+}
+
+h6 {
+    font-size: var(--heading-six);
+}
+
+.p1, p {
+    font-size: var(--p-one);
+}
+
+.p2 {
+    font-size: var(--p-two);
+}
+
+label {
+    font-size: var(--label);
+}
+
+body {
+    background-color: var(--primary);
+}
+

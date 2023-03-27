@@ -1,0 +1,12 @@
+<svg id="clock-time-timer-fast.2" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_47" data-name="Group 47" transform="translate(5.333 2.667)">
+    <path id="Path_92" data-name="Path 92" d="M10,2h5.333" transform="translate(-2 -2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_93" data-name="Path 93" d="M22.209,8.124a10.667,10.667,0,1,1-15.085,0,10.667,10.667,0,0,1,15.085,0" transform="translate(-4 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_94" data-name="Path 94" d="M12.164,12.5a.667.667,0,1,0,.669.667.663.663,0,0,0-.669-.667" transform="translate(-1.5 1.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_95" data-name="Path 95" d="M18.381,18.016A6.668,6.668,0,0,1,7,13.3,6.092,6.092,0,0,1,7.127,12.1" transform="translate(-3 1.365)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_96" data-name="Path 96" d="M8.46,9.46l4.253,4.253" transform="translate(-2.513 0.487)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_97" data-name="Path 97" d="M20.78,5,17.66,8.12" transform="translate(0.553 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_98" data-name="Path 98" d="M19,4l2.667,2.667" transform="translate(1 -1.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Path_99" data-name="Path 99" d="M0,0H32V32H0Z" fill="none"/>
+</svg>
